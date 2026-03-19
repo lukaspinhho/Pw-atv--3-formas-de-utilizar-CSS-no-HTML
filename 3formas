@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+    <style>#Algumacoisa{color:rgb(162, 252, 189);font: size 320%}</style>
+      <link href="hjn.css"> 
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3 formas diferentes de alterar CSS</title>
+</head>
+<body>
+    <p id="Algumacoisa">Olá mundo forma 1</p>
+    <p style="color:cornflowerblue">Olá mundo forma 2</p>
+    <p link="hjn.css">Olá mundo forma 3</p>
+
+</body>
+</html>
